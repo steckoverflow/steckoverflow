@@ -3,11 +3,6 @@
 Fullstack engineer with a slight preference for backend. GCP-certified developer.
 I enjoy tinkering with computers and figuring out how things work.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steckoverflow&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=steckoverflow&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
 ## Currently
 
 Exploring [Gleam](https://gleam.run/) and functional programming.
